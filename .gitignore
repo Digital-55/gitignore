@@ -18,6 +18,7 @@ db/*.sqlite3
 /config/config.yml
 /config/database.yml
 /config/deploy-secrets.yml
+/config/secrets.yml
 /coverage.data
 /coverage/
 /db/*.javadb/
@@ -30,6 +31,8 @@ db/*.sqlite3
 /public/assets
 /public/stylesheets/compiled
 /public/system/*
+/public/uploads/*
+/private/
 /spec/tmp/*
 /cache
 /capybara*
